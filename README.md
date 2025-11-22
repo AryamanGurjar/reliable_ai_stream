@@ -11,6 +11,8 @@ Simple Kafka-based reliable streaming for AI applications. Handles reconnections
 - Type-safe
 - Real-time streaming
 - Multiple subscribers support
+## Architecture
+<img width="1557" height="365" alt="image" src="https://github.com/user-attachments/assets/335a78e2-6713-40aa-8446-f85ee15d50c2" />
 
 ## Installation
 
