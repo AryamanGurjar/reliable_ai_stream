@@ -1,0 +1,10 @@
+# Kafka client - Official
+confluent-kafka>=2.3.0
+
+# Configuration and validation
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+
+# JSON (faster than standard json)
+orjson>=3.9.0
